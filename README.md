@@ -26,7 +26,7 @@ Conceptos practicados:
 ```text
 PruebaJava/
 ├── src/ProyectoJava.java   # Código fuente
-├── bin/                    # Clases compiladas por VS Code
+├── bin/                    # Clases compiladas (se genera al compilar, no se versiona)
 └── .vscode/settings.json   # Configuración del proyecto Java en VS Code
 ```
 
